@@ -112,8 +112,8 @@
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
-        "min_via_annular_width": 0.19999999999999998,
-        "min_via_diameter": 0.6,
+        "min_via_annular_width": 0.09999999999999999,
+        "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
@@ -141,7 +141,81 @@
       "zones_allow_external_fillets": true,
       "zones_use_no_outline": true
     },
-    "layer_presets": []
+    "layer_presets": [
+      {
+        "activeLayer": -2,
+        "layers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          44
+        ],
+        "name": "none",
+        "renderLayers": [
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          160,
+          161
+        ]
+      }
+    ]
   },
   "boards": [],
   "cvpcb": {
@@ -375,7 +449,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
-        "via_diameter": 0.7,
+        "via_diameter": 0.5,
         "via_drill": 0.3,
         "wire_width": 6.0
       }
@@ -387,7 +461,6 @@
       "+12P": "rgb(255, 255, 0)",
       "+24V": "rgb(255, 153, 0)",
       "+3V3": "rgb(255, 0, 0)",
-      "+5P": "rgb(194, 0, 0)",
       "GND": "rgb(0, 255, 0)",
       "GNDPWR": "rgb(0, 194, 0)"
     }
@@ -447,40 +520,40 @@
       ""
     ],
     [
-      "bc89e3f6-d73e-4888-ac66-1b9941cc8728",
-      "input-2"
+      "90e4b13a-cd4c-4d9b-8f76-177c78aec094",
+      "input3"
     ],
     [
-      "c0b55499-c019-434d-9002-baabe66fab8d",
-      "input-3"
+      "9003040f-5d50-4fca-bffd-0e1c617a0489",
+      "input4"
     ],
     [
-      "42fcc464-6fb2-44df-a651-aaa933781bac",
-      "input-4"
+      "35ff194d-bd35-426f-ad4f-90851b657f4f",
+      "input6"
     ],
     [
       "4bf17db8-52d3-43b8-b0c7-e39b42d59100",
-      "input2-2"
+      "input2"
     ],
     [
-      "51a2c103-57a0-456b-84cd-b629490f3747",
-      "input3-2"
+      "124efad0-162e-4ae5-aee9-5e57cac6c505",
+      "input5"
     ],
     [
-      "e38d0517-3cca-4485-9e21-923bf937eac1",
-      "input3-1"
+      "14ba52bc-8ef4-4f40-83ec-6ad69203aff6",
+      "input7"
+    ],
+    [
+      "2904371e-53e5-476d-b949-546e9ed0035d",
+      "input8"
     ],
     [
       "d84a8686-2780-4379-a1b6-4c40dd3c29bc",
       "power"
     ],
     [
-      "7eb50aa4-9af3-4520-994d-5c12fb89c32b",
-      "input-1"
-    ],
-    [
       "e5b90a9a-5c30-45e0-b2da-639b57864a4f",
-      "input2-1"
+      "input1"
     ]
   ],
   "text_variables": {}
