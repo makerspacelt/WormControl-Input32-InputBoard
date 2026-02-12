@@ -401,7 +401,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/8d7e7fa4-9a09-4fb8-9f72-9c378945ab94")
     (attr smd)
     (fp_text reference "R406" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -494,7 +494,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/4a05fc8c-d68f-403e-839f-308fb504e388")
     (attr smd)
     (fp_text reference "R710" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -694,7 +694,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/df5d6ea3-f29e-4ea0-a9a8-9b0c9a304aa7")
     (attr smd)
     (fp_text reference "R407" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -738,7 +738,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/5be47ce9-9fe3-47c8-b269-3e688bad3bf4")
     (attr smd)
     (fp_text reference "R304" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -782,7 +782,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/17b9351f-a44a-4a33-8686-5cadeda249e8")
     (attr smd)
     (fp_text reference "R201" (at 0 -1.65 270 unlocked) (layer "F.SilkS") hide
@@ -930,7 +930,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/3e06e479-9c56-480d-ae8d-7948b3df22c6")
     (attr smd)
     (fp_text reference "R413" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -974,7 +974,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/4330544b-4029-4b45-8350-ffb4e8c87960")
     (attr smd)
     (fp_text reference "R712" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -1018,7 +1018,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/75567d9b-25c0-46b8-a351-78eb09f10918")
     (attr smd)
     (fp_text reference "R1008" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -1106,7 +1106,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/4330544b-4029-4b45-8350-ffb4e8c87960")
     (attr smd)
     (fp_text reference "R1012" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -1150,7 +1150,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/dad86a62-2edf-4561-b2c9-09a7625f45cf")
     (attr smd)
     (fp_text reference "R809" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -1243,7 +1243,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/98382b7b-8c5c-43bd-834c-0b0e888947f1")
     (attr smd)
     (fp_text reference "R605" (at -3.25 0.5 90 unlocked) (layer "F.SilkS") hide
@@ -1287,7 +1287,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/88de6cef-8ffe-4efe-b9fd-6cd5089b5995")
     (attr smd)
     (fp_text reference "R216" (at 0 -1.17) (layer "F.SilkS") hide
@@ -1380,7 +1380,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/d1456963-d6e5-4c75-86eb-c33f88815f45")
     (attr smd)
     (fp_text reference "R302" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -1424,7 +1424,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/0e62dfc3-e221-41c4-be89-eba12c550bfa")
     (attr smd)
     (fp_text reference "R1015" (at 0 -1.17) (layer "F.SilkS") hide
@@ -1944,7 +1944,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/17b9351f-a44a-4a33-8686-5cadeda249e8")
     (attr smd)
     (fp_text reference "R701" (at 0 -1.65 90 unlocked) (layer "F.SilkS") hide
@@ -2076,7 +2076,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/98382b7b-8c5c-43bd-834c-0b0e888947f1")
     (attr smd)
     (fp_text reference "R705" (at -3.25 0.5 90 unlocked) (layer "F.SilkS") hide
@@ -2195,7 +2195,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/b4d4b950-7d6f-4eb0-8e02-b579f85a3a8d")
     (attr smd)
     (fp_text reference "R514" (at 0 -1.17) (layer "F.SilkS") hide
@@ -2239,7 +2239,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/df5d6ea3-f29e-4ea0-a9a8-9b0c9a304aa7")
     (attr smd)
     (fp_text reference "R207" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -2283,7 +2283,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/4330544b-4029-4b45-8350-ffb4e8c87960")
     (attr smd)
     (fp_text reference "R212" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -2454,7 +2454,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/5be47ce9-9fe3-47c8-b269-3e688bad3bf4")
     (attr smd)
     (fp_text reference "R204" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -2591,7 +2591,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/75567d9b-25c0-46b8-a351-78eb09f10918")
     (attr smd)
     (fp_text reference "R808" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -2881,7 +2881,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/98382b7b-8c5c-43bd-834c-0b0e888947f1")
     (attr smd)
     (fp_text reference "R405" (at -3.25 0.5 90 unlocked) (layer "F.SilkS") hide
@@ -2969,7 +2969,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/3e06e479-9c56-480d-ae8d-7948b3df22c6")
     (attr smd)
     (fp_text reference "R1013" (at 0 -1.17) (layer "F.SilkS") hide
@@ -3013,7 +3013,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/0e62dfc3-e221-41c4-be89-eba12c550bfa")
     (attr smd)
     (fp_text reference "R415" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -3161,7 +3161,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/b4d4b950-7d6f-4eb0-8e02-b579f85a3a8d")
     (attr smd)
     (fp_text reference "R614" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -3205,7 +3205,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/b4d4b950-7d6f-4eb0-8e02-b579f85a3a8d")
     (attr smd)
     (fp_text reference "R1014" (at 0 -1.17) (layer "F.SilkS") hide
@@ -3249,7 +3249,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/75567d9b-25c0-46b8-a351-78eb09f10918")
     (attr smd)
     (fp_text reference "R708" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -3632,7 +3632,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/df5d6ea3-f29e-4ea0-a9a8-9b0c9a304aa7")
     (attr smd)
     (fp_text reference "R507" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -4062,7 +4062,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/17b9351f-a44a-4a33-8686-5cadeda249e8")
     (attr smd)
     (fp_text reference "R1001" (at 0 -1.65 270 unlocked) (layer "F.SilkS") hide
@@ -4204,7 +4204,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/98382b7b-8c5c-43bd-834c-0b0e888947f1")
     (attr smd)
     (fp_text reference "R805" (at -3.25 0.5 90 unlocked) (layer "F.SilkS") hide
@@ -4248,7 +4248,7 @@
     (property "Sheetfile" "_power.kicad_sch")
     (property "Sheetname" "power")
     (property "jlc-part-type" "E")
-    (property "lcsc#" "C241467")
+    (property "lcsc#" "C206304")
     (path "/d84a8686-2780-4379-a1b6-4c40dd3c29bc/c7a71eba-4914-4329-9d95-efcb42bb5118")
     (attr smd)
     (fp_text reference "L901" (at -2.7125 -0.2625 270 unlocked) (layer "F.SilkS") hide
@@ -4396,7 +4396,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/2efd9097-a326-4154-a0ea-72ffd8b63ad0")
     (attr smd)
     (fp_text reference "R503" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -4440,7 +4440,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/3e06e479-9c56-480d-ae8d-7948b3df22c6")
     (attr smd)
     (fp_text reference "R813" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -4670,7 +4670,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/df5d6ea3-f29e-4ea0-a9a8-9b0c9a304aa7")
     (attr smd)
     (fp_text reference "R607" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -4758,7 +4758,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/98382b7b-8c5c-43bd-834c-0b0e888947f1")
     (attr smd)
     (fp_text reference "R1005" (at -3.25 0.5 270 unlocked) (layer "F.SilkS") hide
@@ -4802,7 +4802,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/8d7e7fa4-9a09-4fb8-9f72-9c378945ab94")
     (attr smd)
     (fp_text reference "R1006" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -4921,7 +4921,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/8d7e7fa4-9a09-4fb8-9f72-9c378945ab94")
     (attr smd)
     (fp_text reference "R706" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -5234,7 +5234,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/b4d4b950-7d6f-4eb0-8e02-b579f85a3a8d")
     (attr smd)
     (fp_text reference "R714" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -5330,7 +5330,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/75567d9b-25c0-46b8-a351-78eb09f10918")
     (attr smd)
     (fp_text reference "R608" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -5374,7 +5374,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/88de6cef-8ffe-4efe-b9fd-6cd5089b5995")
     (attr smd)
     (fp_text reference "R416" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -5542,7 +5542,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/74f00c83-4939-46f4-9b54-9ae577a212b6")
     (attr smd)
     (fp_text reference "R611" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -5681,7 +5681,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/5be47ce9-9fe3-47c8-b269-3e688bad3bf4")
     (attr smd)
     (fp_text reference "R604" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -5725,7 +5725,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/75567d9b-25c0-46b8-a351-78eb09f10918")
     (attr smd)
     (fp_text reference "R308" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -5769,7 +5769,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/88de6cef-8ffe-4efe-b9fd-6cd5089b5995")
     (attr smd)
     (fp_text reference "R616" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -5813,7 +5813,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/4a05fc8c-d68f-403e-839f-308fb504e388")
     (attr smd)
     (fp_text reference "R210" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -5857,7 +5857,7 @@
     (property "Sheetfile" "_power.kicad_sch")
     (property "Sheetname" "power")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/d84a8686-2780-4379-a1b6-4c40dd3c29bc/39740221-0ca7-4f1a-9ca5-c2642e84acb3")
     (attr smd)
     (fp_text reference "R903" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -5901,7 +5901,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/2efd9097-a326-4154-a0ea-72ffd8b63ad0")
     (attr smd)
     (fp_text reference "R703" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -6095,7 +6095,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/2efd9097-a326-4154-a0ea-72ffd8b63ad0")
     (attr smd)
     (fp_text reference "R603" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -6188,7 +6188,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/3e06e479-9c56-480d-ae8d-7948b3df22c6")
     (attr smd)
     (fp_text reference "R713" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -6232,7 +6232,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/4a05fc8c-d68f-403e-839f-308fb504e388")
     (attr smd)
     (fp_text reference "R810" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -6276,7 +6276,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/d1456963-d6e5-4c75-86eb-c33f88815f45")
     (attr smd)
     (fp_text reference "R402" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -6320,7 +6320,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/4a05fc8c-d68f-403e-839f-308fb504e388")
     (attr smd)
     (fp_text reference "R310" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -6545,7 +6545,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/8d7e7fa4-9a09-4fb8-9f72-9c378945ab94")
     (attr smd)
     (fp_text reference "R506" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -6638,7 +6638,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/88de6cef-8ffe-4efe-b9fd-6cd5089b5995")
     (attr smd)
     (fp_text reference "R316" (at 0 -1.17) (layer "F.SilkS") hide
@@ -6726,7 +6726,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/dad86a62-2edf-4561-b2c9-09a7625f45cf")
     (attr smd)
     (fp_text reference "R409" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -6770,7 +6770,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/3e06e479-9c56-480d-ae8d-7948b3df22c6")
     (attr smd)
     (fp_text reference "R313" (at 0 -1.17) (layer "F.SilkS") hide
@@ -7034,7 +7034,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/5be47ce9-9fe3-47c8-b269-3e688bad3bf4")
     (attr smd)
     (fp_text reference "R704" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -7078,7 +7078,7 @@
     (property "Sheetfile" "_power.kicad_sch")
     (property "Sheetname" "power")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/d84a8686-2780-4379-a1b6-4c40dd3c29bc/1911b5b9-c0b6-4bde-bf33-cc1465ead671")
     (attr smd)
     (fp_text reference "R901" (at 0 -1.17) (layer "F.SilkS") hide
@@ -7166,7 +7166,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/17b9351f-a44a-4a33-8686-5cadeda249e8")
     (attr smd)
     (fp_text reference "R501" (at 0 -1.65 270 unlocked) (layer "F.SilkS") hide
@@ -7209,11 +7209,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiPCIsICJDYXBSaWdodENob2ljZSI6ICJdIiwgIkZvbnRDb21ib0JveCI6ICJVYnVudHVNb25vLUIiLCAiSGVpZ2h0Q3RybCI6IDEuMiwgIkxheWVyQ29tYm9Cb3giOiAiRi5TaWxrUyIsICJMaW5lU3BhY2luZ0N0cmwiOiAxLjUsICJNdWx0aUxpbmVUZXh0IjogIjI0ViIsICJQYWRkaW5nQm90dG9tQ3RybCI6IDIuMCwgIlBhZGRpbmdMZWZ0Q3RybCI6IDEuMCwgIlBhZGRpbmdSaWdodEN0cmwiOiAyLjAsICJQYWRkaW5nVG9wQ3RybCI6IDIuMCwgIldpZHRoQ3RybCI6IDAuMCwgImFkdmFuY2VkQ2hlY2tib3giOiBmYWxzZSwgImlubGluZUZvcm1hdFRleHRib3giOiBmYWxzZSwgImxpbmVvdmVyU3R5bGVDaG9pY2UiOiAiU3F1YXJlIiwgImxpbmVvdmVyVGhpY2tuZXNzQ3RybCI6IDF9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-698DC8DA" (at 0 -3.984672 90) (layer "F.SilkS") hide
-      (effects (font (size 0 0)))
+      (effects (font (size 0 0) (thickness 0.15)))
       (tstamp c2273aa5-4bed-4019-9366-d65af910c50f)
     )
     (fp_text value "G***" (at 0 3.984672 90) (layer "F.SilkS") hide
-      (effects (font (size 0 0)))
+      (effects (font (size 0 0) (thickness 0.15)))
       (tstamp 7485fff6-b171-411d-bbf4-24387d6fc22a)
     )
     (fp_poly (pts
@@ -7398,7 +7398,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/74f00c83-4939-46f4-9b54-9ae577a212b6")
     (attr smd)
     (fp_text reference "R511" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -7442,7 +7442,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/98382b7b-8c5c-43bd-834c-0b0e888947f1")
     (attr smd)
     (fp_text reference "R505" (at -3.25 0.5 270 unlocked) (layer "F.SilkS") hide
@@ -7579,7 +7579,7 @@
     (property "Sheetfile" "_power.kicad_sch")
     (property "Sheetname" "power")
     (property "jlc-part-type" "E")
-    (property "lcsc#" "C241467")
+    (property "lcsc#" "C206304")
     (path "/d84a8686-2780-4379-a1b6-4c40dd3c29bc/5fe9d26a-a822-4be6-bf34-7ed962383699")
     (attr smd)
     (fp_text reference "L902" (at 2.7125 2.2625 -90 unlocked) (layer "F.SilkS") hide
@@ -7623,7 +7623,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/dad86a62-2edf-4561-b2c9-09a7625f45cf")
     (attr smd)
     (fp_text reference "R309" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -7716,7 +7716,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/0e62dfc3-e221-41c4-be89-eba12c550bfa")
     (attr smd)
     (fp_text reference "R615" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -7780,7 +7780,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/0e62dfc3-e221-41c4-be89-eba12c550bfa")
     (attr smd)
     (fp_text reference "R315" (at 0 -1.17) (layer "F.SilkS") hide
@@ -7824,7 +7824,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/d1456963-d6e5-4c75-86eb-c33f88815f45")
     (attr smd)
     (fp_text reference "R1002" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -8057,7 +8057,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/74f00c83-4939-46f4-9b54-9ae577a212b6")
     (attr smd)
     (fp_text reference "R1011" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -8101,7 +8101,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/4a05fc8c-d68f-403e-839f-308fb504e388")
     (attr smd)
     (fp_text reference "R1010" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -8145,7 +8145,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/4a05fc8c-d68f-403e-839f-308fb504e388")
     (attr smd)
     (fp_text reference "R610" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -8189,7 +8189,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/0e62dfc3-e221-41c4-be89-eba12c550bfa")
     (attr smd)
     (fp_text reference "R715" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -8277,7 +8277,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/17b9351f-a44a-4a33-8686-5cadeda249e8")
     (attr smd)
     (fp_text reference "R601" (at 0 -1.65 90 unlocked) (layer "F.SilkS") hide
@@ -8414,7 +8414,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/5be47ce9-9fe3-47c8-b269-3e688bad3bf4")
     (attr smd)
     (fp_text reference "R504" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -8629,7 +8629,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/8d7e7fa4-9a09-4fb8-9f72-9c378945ab94")
     (attr smd)
     (fp_text reference "R806" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -8673,7 +8673,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/75567d9b-25c0-46b8-a351-78eb09f10918")
     (attr smd)
     (fp_text reference "R208" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -8717,7 +8717,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/88de6cef-8ffe-4efe-b9fd-6cd5089b5995")
     (attr smd)
     (fp_text reference "R816" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -8870,7 +8870,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/98382b7b-8c5c-43bd-834c-0b0e888947f1")
     (attr smd)
     (fp_text reference "R305" (at -3.25 0.5 270 unlocked) (layer "F.SilkS") hide
@@ -8914,7 +8914,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/74f00c83-4939-46f4-9b54-9ae577a212b6")
     (attr smd)
     (fp_text reference "R711" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -8958,7 +8958,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/3e06e479-9c56-480d-ae8d-7948b3df22c6")
     (attr smd)
     (fp_text reference "R213" (at 0 -1.17) (layer "F.SilkS") hide
@@ -9002,7 +9002,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/88de6cef-8ffe-4efe-b9fd-6cd5089b5995")
     (attr smd)
     (fp_text reference "R1016" (at 0 -1.17) (layer "F.SilkS") hide
@@ -9046,7 +9046,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/d1456963-d6e5-4c75-86eb-c33f88815f45")
     (attr smd)
     (fp_text reference "R802" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -9277,7 +9277,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/4330544b-4029-4b45-8350-ffb4e8c87960")
     (attr smd)
     (fp_text reference "R412" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -9409,7 +9409,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/b4d4b950-7d6f-4eb0-8e02-b579f85a3a8d")
     (attr smd)
     (fp_text reference "R314" (at 0 -1.17) (layer "F.SilkS") hide
@@ -9525,7 +9525,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/5be47ce9-9fe3-47c8-b269-3e688bad3bf4")
     (attr smd)
     (fp_text reference "R1004" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -9711,7 +9711,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/74f00c83-4939-46f4-9b54-9ae577a212b6")
     (attr smd)
     (fp_text reference "R211" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -9755,7 +9755,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/b4d4b950-7d6f-4eb0-8e02-b579f85a3a8d")
     (attr smd)
     (fp_text reference "R414" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -9799,7 +9799,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/4a05fc8c-d68f-403e-839f-308fb504e388")
     (attr smd)
     (fp_text reference "R410" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -10019,7 +10019,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/5be47ce9-9fe3-47c8-b269-3e688bad3bf4")
     (attr smd)
     (fp_text reference "R404" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -10083,7 +10083,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/5be47ce9-9fe3-47c8-b269-3e688bad3bf4")
     (attr smd)
     (fp_text reference "R804" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -10127,7 +10127,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/98382b7b-8c5c-43bd-834c-0b0e888947f1")
     (attr smd)
     (fp_text reference "R205" (at -3.25 0.5 270 unlocked) (layer "F.SilkS") hide
@@ -10171,7 +10171,7 @@
     (property "Sheetfile" "project.kicad_sch")
     (property "Sheetname" "")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17673")
     (path "/7c7ccea8-f417-4710-aca4-55e4c7d6bc84")
     (attr smd)
     (fp_text reference "R101" (at 2.3625 -0.0375 unlocked) (layer "F.SilkS") hide
@@ -10215,7 +10215,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/74f00c83-4939-46f4-9b54-9ae577a212b6")
     (attr smd)
     (fp_text reference "R811" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -10573,7 +10573,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/d1456963-d6e5-4c75-86eb-c33f88815f45")
     (attr smd)
     (fp_text reference "R502" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -10792,7 +10792,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/88de6cef-8ffe-4efe-b9fd-6cd5089b5995")
     (attr smd)
     (fp_text reference "R516" (at 0 -1.17) (layer "F.SilkS") hide
@@ -10836,7 +10836,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/dad86a62-2edf-4561-b2c9-09a7625f45cf")
     (attr smd)
     (fp_text reference "R609" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -10924,7 +10924,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/d1456963-d6e5-4c75-86eb-c33f88815f45")
     (attr smd)
     (fp_text reference "R602" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -10968,7 +10968,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/8d7e7fa4-9a09-4fb8-9f72-9c378945ab94")
     (attr smd)
     (fp_text reference "R206" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -11152,7 +11152,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/3e06e479-9c56-480d-ae8d-7948b3df22c6")
     (attr smd)
     (fp_text reference "R613" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -11240,7 +11240,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/b4d4b950-7d6f-4eb0-8e02-b579f85a3a8d")
     (attr smd)
     (fp_text reference "R814" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -11284,7 +11284,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/74f00c83-4939-46f4-9b54-9ae577a212b6")
     (attr smd)
     (fp_text reference "R311" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -11504,7 +11504,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/2efd9097-a326-4154-a0ea-72ffd8b63ad0")
     (attr smd)
     (fp_text reference "R1003" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -11695,7 +11695,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/3e06e479-9c56-480d-ae8d-7948b3df22c6")
     (attr smd)
     (fp_text reference "R513" (at 0 -1.17) (layer "F.SilkS") hide
@@ -11835,7 +11835,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/2efd9097-a326-4154-a0ea-72ffd8b63ad0")
     (attr smd)
     (fp_text reference "R203" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -12093,7 +12093,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/4330544b-4029-4b45-8350-ffb4e8c87960")
     (attr smd)
     (fp_text reference "R512" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -12137,7 +12137,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/4330544b-4029-4b45-8350-ffb4e8c87960")
     (attr smd)
     (fp_text reference "R612" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -12230,7 +12230,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/dad86a62-2edf-4561-b2c9-09a7625f45cf")
     (attr smd)
     (fp_text reference "R509" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -12274,7 +12274,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/df5d6ea3-f29e-4ea0-a9a8-9b0c9a304aa7")
     (attr smd)
     (fp_text reference "R307" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -12462,11 +12462,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiWyIsICJDYXBSaWdodENob2ljZSI6ICI+IiwgIkZvbnRDb21ib0JveCI6ICJVYnVudHVNb25vLUIiLCAiSGVpZ2h0Q3RybCI6IDEuMiwgIkxheWVyQ29tYm9Cb3giOiAiRi5TaWxrUyIsICJMaW5lU3BhY2luZ0N0cmwiOiAxLjUsICJNdWx0aUxpbmVUZXh0IjogIjEyViIsICJQYWRkaW5nQm90dG9tQ3RybCI6IDIuMCwgIlBhZGRpbmdMZWZ0Q3RybCI6IDIuMCwgIlBhZGRpbmdSaWdodEN0cmwiOiAxLjAsICJQYWRkaW5nVG9wQ3RybCI6IDIuMCwgIldpZHRoQ3RybCI6IDAuMCwgImFkdmFuY2VkQ2hlY2tib3giOiBmYWxzZSwgImlubGluZUZvcm1hdFRleHRib3giOiBmYWxzZSwgImxpbmVvdmVyU3R5bGVDaG9pY2UiOiAiU3F1YXJlIiwgImxpbmVvdmVyVGhpY2tuZXNzQ3RybCI6IDF9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-698DC759" (at 0 -3.984672 90) (layer "F.SilkS") hide
-      (effects (font (size 0 0)))
+      (effects (font (size 0 0) (thickness 0.15)))
       (tstamp e9771093-b06e-43de-8b3a-a983d70c4c2d)
     )
     (fp_text value "G***" (at 0 3.984672 90) (layer "F.SilkS") hide
-      (effects (font (size 0 0)))
+      (effects (font (size 0 0) (thickness 0.15)))
       (tstamp ba04c7c8-5d3c-4e58-88d7-c5e6c04cdbab)
     )
     (fp_poly (pts
@@ -12590,7 +12590,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/17b9351f-a44a-4a33-8686-5cadeda249e8")
     (attr smd)
     (fp_text reference "R301" (at 0 -1.65 270 unlocked) (layer "F.SilkS") hide
@@ -12858,7 +12858,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/88de6cef-8ffe-4efe-b9fd-6cd5089b5995")
     (attr smd)
     (fp_text reference "R716" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -13199,7 +13199,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/2efd9097-a326-4154-a0ea-72ffd8b63ad0")
     (attr smd)
     (fp_text reference "R403" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -13698,7 +13698,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/0e62dfc3-e221-41c4-be89-eba12c550bfa")
     (attr smd)
     (fp_text reference "R215" (at 0 -1.17) (layer "F.SilkS") hide
@@ -13742,7 +13742,7 @@
     (property "Sheetfile" "_power.kicad_sch")
     (property "Sheetname" "power")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/d84a8686-2780-4379-a1b6-4c40dd3c29bc/60dabc9c-3ce9-44f6-93a8-0c1f569209f5")
     (attr smd)
     (fp_text reference "R902" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -13786,7 +13786,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/74f00c83-4939-46f4-9b54-9ae577a212b6")
     (attr smd)
     (fp_text reference "R411" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -14044,7 +14044,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/df5d6ea3-f29e-4ea0-a9a8-9b0c9a304aa7")
     (attr smd)
     (fp_text reference "R807" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -14088,7 +14088,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/df5d6ea3-f29e-4ea0-a9a8-9b0c9a304aa7")
     (attr smd)
     (fp_text reference "R707" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -14132,7 +14132,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/2efd9097-a326-4154-a0ea-72ffd8b63ad0")
     (attr smd)
     (fp_text reference "R303" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -14176,7 +14176,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/d1456963-d6e5-4c75-86eb-c33f88815f45")
     (attr smd)
     (fp_text reference "R202" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -14491,7 +14491,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/17b9351f-a44a-4a33-8686-5cadeda249e8")
     (attr smd)
     (fp_text reference "R401" (at 0 -1.65 90 unlocked) (layer "F.SilkS") hide
@@ -14623,7 +14623,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/dad86a62-2edf-4561-b2c9-09a7625f45cf")
     (attr smd)
     (fp_text reference "R209" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -14793,7 +14793,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input3")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/90e4b13a-cd4c-4d9b-8f76-177c78aec094/b4d4b950-7d6f-4eb0-8e02-b579f85a3a8d")
     (attr smd)
     (fp_text reference "R214" (at 0 -1.17) (layer "F.SilkS") hide
@@ -16255,7 +16255,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/0e62dfc3-e221-41c4-be89-eba12c550bfa")
     (attr smd)
     (fp_text reference "R515" (at 0 -1.17) (layer "F.SilkS") hide
@@ -16523,7 +16523,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25792")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/0e62dfc3-e221-41c4-be89-eba12c550bfa")
     (attr smd)
     (fp_text reference "R815" (at 0 -1.17 180) (layer "F.SilkS") hide
@@ -16735,7 +16735,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/dad86a62-2edf-4561-b2c9-09a7625f45cf")
     (attr smd)
     (fp_text reference "R1009" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -16779,7 +16779,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/4330544b-4029-4b45-8350-ffb4e8c87960")
     (attr smd)
     (fp_text reference "R312" (at 0 -1.17 90) (layer "F.SilkS") hide
@@ -16867,7 +16867,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input5")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/124efad0-162e-4ae5-aee9-5e57cac6c505/8d7e7fa4-9a09-4fb8-9f72-9c378945ab94")
     (attr smd)
     (fp_text reference "R606" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -16911,7 +16911,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input6")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/35ff194d-bd35-426f-ad4f-90851b657f4f/75567d9b-25c0-46b8-a351-78eb09f10918")
     (attr smd)
     (fp_text reference "R408" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -17004,7 +17004,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/17b9351f-a44a-4a33-8686-5cadeda249e8")
     (attr smd)
     (fp_text reference "R801" (at 0 -1.65 90 unlocked) (layer "F.SilkS") hide
@@ -17146,7 +17146,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/dad86a62-2edf-4561-b2c9-09a7625f45cf")
     (attr smd)
     (fp_text reference "R709" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -17291,7 +17291,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/4330544b-4029-4b45-8350-ffb4e8c87960")
     (attr smd)
     (fp_text reference "R812" (at 0 -1.17 270) (layer "F.SilkS") hide
@@ -17379,7 +17379,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/75567d9b-25c0-46b8-a351-78eb09f10918")
     (attr smd)
     (fp_text reference "R508" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -17622,7 +17622,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input1")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/e5b90a9a-5c30-45e0-b2da-639b57864a4f/df5d6ea3-f29e-4ea0-a9a8-9b0c9a304aa7")
     (attr smd)
     (fp_text reference "R1007" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -17715,7 +17715,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input8")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/2904371e-53e5-476d-b949-546e9ed0035d/2efd9097-a326-4154-a0ea-72ffd8b63ad0")
     (attr smd)
     (fp_text reference "R803" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -17759,7 +17759,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input4")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/9003040f-5d50-4fca-bffd-0e1c617a0489/8d7e7fa4-9a09-4fb8-9f72-9c378945ab94")
     (attr smd)
     (fp_text reference "R306" (at 0 -1.65 90) (layer "F.SilkS") hide
@@ -17803,7 +17803,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input7")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C17556")
     (path "/14ba52bc-8ef4-4f40-83ec-6ad69203aff6/d1456963-d6e5-4c75-86eb-c33f88815f45")
     (attr smd)
     (fp_text reference "R702" (at 0 -1.65 -90) (layer "F.SilkS") hide
@@ -17896,7 +17896,7 @@
     (property "Sheetfile" "_input2.kicad_sch")
     (property "Sheetname" "input2")
     (property "jlc-part-type" "B")
-    (property "lcsc#" "")
+    (property "lcsc#" "C25104")
     (path "/4bf17db8-52d3-43b8-b0c7-e39b42d59100/4a05fc8c-d68f-403e-839f-308fb504e388")
     (attr smd)
     (fp_text reference "R510" (at 0 -1.17 90) (layer "F.SilkS") hide
