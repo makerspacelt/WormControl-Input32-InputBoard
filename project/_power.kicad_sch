@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "WormControl-Input32-InputBoard")
+    (date "2026-03-19")
+    (rev "0.3")
+    (company "makerspace.lt")
+  )
+
   (lib_symbols
     (symbol "-local:2412S-3WR2" (in_bom yes) (on_board yes)
       (property "Reference" "PS" (id 0) (at -7.62 8.89 0)

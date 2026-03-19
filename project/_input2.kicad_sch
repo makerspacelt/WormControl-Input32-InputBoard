@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "WormControl-Input32-InputBoard")
+    (date "2026-03-19")
+    (rev "0.3")
+    (company "makerspace.lt")
+  )
+
   (lib_symbols
     (symbol "Connector:Screw_Terminal_01x05" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 7.62 0)
